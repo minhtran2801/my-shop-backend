@@ -1,0 +1,30 @@
+{
+  "name": "my-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Minh Tran",
+  "license": "ISC",
+  "dependencies": {
+    "braintree": "^3.7.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.0",
+    "express-validator": "^6.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.11",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.13",
+    "uuid": "^8.3.2",
+    "uuidv1": "^1.6.14"
+  }
+}
