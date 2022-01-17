@@ -11,6 +11,7 @@
   "author": "Minh Tran",
   "license": "ISC",
   "dependencies": {
+    "@sendgrid/mail": "^7.6.0",
     "braintree": "^3.7.0",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
